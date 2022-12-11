@@ -27,7 +27,7 @@ export const Purchase: React.FunctionComponent = () => {
       />
       <Spacer />
       <InputValuePercent
-        label="Eigenanteit"
+        label="Eigenanteil"
         stateKey="budget"
         from="cost_total"
       />
